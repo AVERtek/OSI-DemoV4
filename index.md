@@ -32,7 +32,7 @@
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
 
-<model-viewer id="reveal" loading="eager" src="Models/SIF_Table_BBY_10_07_2020_LoPoly.glb" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="SIF_Table_BBY_10_07_2020_LoPoly.usdz" alt="Microsoft 3D Model Display v4" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> 
+<model-viewer id="reveal" loading="eager" src="Models/SIF_Table_BBY_10_07_2020_LoPoly.glb" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="SIF_Table_BBY_10_07_2020_LoPoly.usdz" alt="OSI Demo V4" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> 
 </model-viewer>
 
 <!-- Loads <model-viewer> for modern browsers: -->
